@@ -1,3 +1,4 @@
 # ca-baietii
 
-dont care if it hurts
+#Collaborators:
+1. dont care if it hurts
